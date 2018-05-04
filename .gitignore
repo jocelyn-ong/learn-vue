@@ -15,3 +15,9 @@ selenium-debug.log
 *.ntvs*
 *.njsproj
 *.sln
+
+**/.DS_Store
+**/.ipynb_checkpoints/
+**/ss/
+**/drafts/
+**/data/
